@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Main dashboard frame -->
+    <rect x="2" y="2" width="20" height="20" rx="2" stroke="#F8FAFC" stroke-width="2"/>
+    <!-- Top bar -->
+    <rect x="2" y="2" width="20" height="6" fill="#F8FAFC"/>
+    <!-- Dashboard elements -->
+    <rect x="4" y="10" width="7" height="4" rx="1" fill="#F8FAFC"/>
+    <rect x="13" y="10" width="7" height="4" rx="1" fill="#F8FAFC"/>
+    <rect x="4" y="16" width="16" height="3" rx="1" fill="#F8FAFC"/>
+</svg>
